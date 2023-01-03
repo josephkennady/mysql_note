@@ -1,4 +1,4 @@
-#Insert/Update Current Time in MySQL
+# Insert/Update Current Time in MySQL
 
 If you want to specify a different time zone for the current date and time, you can use the CONVERT_TZ function. For example:
 
